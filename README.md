@@ -6,7 +6,7 @@ It's a website with a collection of many well-known programming languages, along
 # ⚙️ Installations
 ## Github
 ```
-git clone https://github.com/firstdecree/prolang.git
+git clone https://github.com/official-lucerna/prolang.git
 ```
 
 ## NpmJS
